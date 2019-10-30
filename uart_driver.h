@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <avr/interrupt.h>
 
-#define SYSTEM_FREQ	16000000ULL
+#define SYSTEM_FREQ	8000000ULL
 
 
 #define  Disable_Interrupts()		cli()
